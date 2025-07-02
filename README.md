@@ -1,2 +1,2 @@
-# wallet
-QRC wallet
+# QRC
+QRC is Wallet for quarc blockchain.
